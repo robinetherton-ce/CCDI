@@ -47,6 +47,7 @@ function App() {
 
   return (
     <section>
+      <img src="!_assets/CCDI_logo.png" alt="logo" />
       <h1>Counterfeit Currency & Document Index</h1>
 
       <section style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr 1fr 1fr', gap: '1rem' }}>
